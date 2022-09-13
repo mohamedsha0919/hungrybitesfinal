@@ -1,7 +1,7 @@
 {
   "name": "hungrybitess",
   "version": "0.1.0",
-  "homepage": "https://mohamedsha0919.github.io/hungrybites/",
+  "homepage": "https://mohamedsha0919.github.io/hungrybitesfinal/",
   "proxy": "http://localhost:5000",
   "private": true,
   "dependencies": {
